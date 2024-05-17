@@ -3,4 +3,20 @@
 Ứng dụng được viết bằng React Native và kết nối với API Spring boot tự thiết kế và triển khai sử dụng cơ sở dụng liệu Mongo DB
 ### Màn hình đăng nhập
 ![image](https://github.com/HuuPhuoc2632/CloneUIMBBank/assets/125341224/88c0f89f-29c4-4811-af04-b33a0c841849)
+### Màn hình chính
+![image](https://github.com/HuuPhuoc2632/CloneUIMBBank/assets/125341224/2c6debd0-ea75-4351-9a5d-3047ad7b7e16)
+![image](https://github.com/HuuPhuoc2632/CloneUIMBBank/assets/125341224/0671b930-ee07-4a73-abfb-b5835342d9b0)
+![image](https://github.com/HuuPhuoc2632/CloneUIMBBank/assets/125341224/49061b6c-c6c2-4e00-8b3a-a11a470dfdd6)
+### Một số màn hình khác
+![image](https://github.com/HuuPhuoc2632/CloneUIMBBank/assets/125341224/c53b1c78-a3cc-45ce-bb52-a4a6629ea7f2)
+![image](https://github.com/HuuPhuoc2632/CloneUIMBBank/assets/125341224/00aa297c-9d83-4397-8e91-1bb955abcdac)
+![image](https://github.com/HuuPhuoc2632/CloneUIMBBank/assets/125341224/0f740957-e7f6-477d-8575-16f9d96e4cc6)
+## Tính năng chuyển tiền
+![image](https://github.com/HuuPhuoc2632/CloneUIMBBank/assets/125341224/5901ea36-d2da-43c9-bc1e-5ebba6461c98)
+![image](https://github.com/HuuPhuoc2632/CloneUIMBBank/assets/125341224/c9f178c0-d4d5-43e2-abcd-093495b11910)
+![image](https://github.com/HuuPhuoc2632/CloneUIMBBank/assets/125341224/3d3edf29-0032-40c2-b79b-9cd477505ac9)
+### Lịch sử giao dịch
+![image](https://github.com/HuuPhuoc2632/CloneUIMBBank/assets/125341224/a0668328-9baa-4f7d-b93b-a8309fa886e7)
+![image](https://github.com/HuuPhuoc2632/CloneUIMBBank/assets/125341224/b9b88278-9c7f-4276-ac70-6219a00dea14)
+
 
