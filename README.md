@@ -4,6 +4,7 @@
 Dữ liệu được lưu trữ trên Mongo DB   
 ### Màn hình đăng nhập   
 <img src="https://github.com/HuuPhuoc2632/CloneUIMBBank/assets/125341224/88c0f89f-29c4-4811-af04-b33a0c841849" alt="drawing" style="width:200px;" />  
+<br>
 ### Màn hình chính   
 <img src="https://github.com/HuuPhuoc2632/CloneUIMBBank/assets/125341224/2c6debd0-ea75-4351-9a5d-3047ad7b7e16" alt="drawing" style="width:200px;" />
 <img src="https://github.com/HuuPhuoc2632/CloneUIMBBank/assets/125341224/0671b930-ee07-4a73-abfb-b5835342d9b0" alt="drawing" style="width:200px;" />
